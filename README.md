@@ -1,4 +1,1 @@
-# Repos-demo
-This is my First Git Repository.
-<br>
-Author - Mansi Ghangare (Fresher)
+#This is my local Repo.
